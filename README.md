@@ -24,5 +24,3 @@ Para ejecutar el proyecto recomiendo hacerlo desde la clase login.java, ya que o
 <li>C3P0</li>
 <li>JCalendar</li>
 <li>JDBC</li>
-
-<h2 align="center">Desarrollador del proyecto</h2>
